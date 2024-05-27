@@ -3,7 +3,7 @@
 Welcome to the Breakout Reinforcement Learning Implementations repository. This project includes various implementations of Reinforcement Learning algorithms applied to the classic Breakout game environment. It aims to provide reproducible results for the research presented in our paper _A COMPARATIVE STUDY OF DEEP REINFORCEMENT
 LEARNING MODELS: DQN VS PPO VS A2C_.
 
-## 🚀 Directory Structure
+## 🔩 Directory Structure
 
 The repository is organized into the following directories, each containing a specific approach to solving Breakout using different RL algorithms:
 
