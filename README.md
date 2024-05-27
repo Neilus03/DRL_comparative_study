@@ -9,19 +9,15 @@ The repository is organized into the following directories, each containing a sp
 
 - **`BreakOut_base`**: 
   - *Description*: Base implementation of the Deep Q-Network (DQN) for the Breakout game.
-  - *Details*: Find more information in the specific README in this directory.
 
 - **`BreakOut_sb3_A2C`**: 
-  - *Description*: Implementation of the Advantage Actor-Critic (A2C) algorithm using Stable Baselines 3.
-  - *Details*: Detailed instructions are provided in the corresponding README.
+  - Implementation of the Advantage Actor-Critic (A2C) algorithm using Stable Baselines 3.
 
 - **`BreakOut_sb3_PPO`**: 
-  - *Description*: Proximal Policy Optimization (PPO) approach using Stable Baselines 3.
-  - *Details*: Refer to the README within for setup and usage instructions.
-
+  - Proximal Policy Optimization (PPO) approach using Stable Baselines 3.
 - **`Breakout_sb3_DQN`**: 
-  - *Description*: Implementation of DQN using Stable Baselines 3.
-  - *Details*: The README in this folder will guide you through the necessary steps for training and testing.
+  - Implementation of DQN using Stable Baselines 3.
+*Details*: The README in this folder will guide you through the necessary steps for training and testing.
 
 ## 📦 Installation
 
