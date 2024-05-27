@@ -1,0 +1,12 @@
+torch
+gymnasium
+box2d-py
+stable-baselines3[extra]
+wandb
+numpy
+matplotlib
+time
+seaborn
+tqdm
+pygame
+opencv-python
