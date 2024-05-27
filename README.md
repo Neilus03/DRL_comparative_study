@@ -59,7 +59,8 @@ We welcome contributions! If you have suggestions or improvements, feel free to 
 
 For any questions or inquiries, please reach out to 
 
-[Daniel Vidal](https://www.linkedin.com/in/daniel-alejandro-vidal-guerra-21386b266/).
+[Daniel Vidal](https://www.linkedin.com/in/daniel-alejandro-vidal-guerra-21386b266/)
+
 [Neil de la Fuente](https://www.linkedin.com/in/neil-de-la-fuente/)
 
 ---
