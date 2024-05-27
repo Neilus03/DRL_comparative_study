@@ -22,12 +22,6 @@ The repository is organized into the following directories, each containing a sp
   - *Description*: Implementation of DQN using Stable Baselines 3.
   - *Details*: The README in this folder will guide you through the necessary steps for training and testing.
 
-## 🏁 Getting Started
-
-To get started with any of the implementations:
-
-1. **Navigate** to the respective directory.
-2. **Follow** the instructions provided in its README file.
 
 ## 📦 Installation
 
@@ -39,10 +33,11 @@ pip install -r requirements.txt
 
 ## 🎮 Usage
 
-1. **Clone** this repository:
+1. **Clone & Set Up** this repository:
     ```bash
     git clone https://github.com/Neilus03/DRL_comparative_study
-    cd Breakout-RL-Implementations
+    cd DRL_comparative_study
+    pip install -r requirements.txt
     ```
 
 2. **Navigate** to the desired implementation directory, e.g., for PPO:
@@ -52,7 +47,7 @@ pip install -r requirements.txt
     
 3. **Configure** the config.py file to adjust the model training, the wandb account and the saving model options.
 
-4. **Execute** the `train.py` to run the model.
+4. **Execute** the `train.py` to run the model or test if you already have a pre-trained model to test.
 
 
 ## 👥 Contributing
