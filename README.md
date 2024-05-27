@@ -1,8 +1,9 @@
 # Breakout Reinforcement Learning Implementations
 
-Welcome to the Breakout Reinforcement Learning Implementations repository. This project includes various implementations of Reinforcement Learning algorithms applied to the classic Breakout game environment. Whether you are a beginner or an experienced practitioner, you'll find useful resources and detailed instructions to help you get started with these cutting-edge models.
+Welcome to the Breakout Reinforcement Learning Implementations repository. This project includes various implementations of Reinforcement Learning algorithms applied to the classic Breakout game environment. It aims to provide reproducible results for the research presented in our paper _A COMPARATIVE STUDY OF DEEP REINFORCEMENT
+LEARNING MODELS: DQN VS PPO VS A2C_.
 
-## Directory Structure
+## 🚀 Directory Structure
 
 The repository is organized into the following directories, each containing a specific approach to solving Breakout using different RL algorithms:
 
@@ -21,7 +22,6 @@ The repository is organized into the following directories, each containing a sp
 - **`Breakout_sb3_DQN`**: 
   - *Description*: Implementation of DQN using Stable Baselines 3.
   - *Details*: The README in this folder will guide you through the necessary steps for training and testing.
-
 
 ## 📦 Installation
 
@@ -45,19 +45,17 @@ pip install -r requirements.txt
     cd BreakOut_sb3_PPO
     ```
     
-3. **Configure** the config.py file to adjust the model training, the wandb account and the saving model options.
+3. **Configure** the `config.py` file to adjust the model training, the wandb account, and the saving model options.
 
-4. **Execute** the `train.py` to run the model or test if you already have a pre-trained model to test.
-
+4. **Execute** the `train.py` to run the model or `test.py` if you already have a pre-trained model to test.
 
 ## 👥 Contributing
 
 We welcome contributions! If you have suggestions or improvements, feel free to create a pull request or open an issue.
 
-
 ## 📧 Contact
 
-For any questions or inquiries, please reach out to 
+For any questions or inquiries, please reach out to:
 
 [Daniel Vidal](https://www.linkedin.com/in/daniel-alejandro-vidal-guerra-21386b266/)
 
@@ -65,6 +63,6 @@ For any questions or inquiries, please reach out to
 
 ---
 
-Thank you for visiting! We hope you find this repository useful and educational. Happy coding and happy learning! 🎉
+Thank you for visiting! We hope you find this repository useful for reproducing the results presented in our paper.
 
 ---
