@@ -1,8 +1,8 @@
 # Breakout Reinforcement Learning Implementations
 
-Welcome to the Breakout Reinforcement Learning Implementations repository! This project includes various implementations of Reinforcement Learning algorithms applied to the classic Breakout game environment. Whether you are a beginner or an experienced practitioner, you'll find useful resources and detailed instructions to help you get started with these cutting-edge models.
+Welcome to the Breakout Reinforcement Learning Implementations repository. This project includes various implementations of Reinforcement Learning algorithms applied to the classic Breakout game environment. Whether you are a beginner or an experienced practitioner, you'll find useful resources and detailed instructions to help you get started with these cutting-edge models.
 
-## 🚀 Directory Structure
+## Directory Structure
 
 The repository is organized into the following directories, each containing a specific approach to solving Breakout using different RL algorithms:
 
