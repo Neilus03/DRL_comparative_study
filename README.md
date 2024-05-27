@@ -17,6 +17,7 @@ The repository is organized into the following directories, each containing a sp
   - Proximal Policy Optimization (PPO) approach using Stable Baselines 3.
 - **`Breakout_sb3_DQN`**: 
   - Implementation of DQN using Stable Baselines 3.
+    
 *Details*: The README in this folder will guide you through the necessary steps for training and testing.
 
 ## 📦 Installation
